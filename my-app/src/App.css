@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #e07fc3;
+}
+
+h1 {
+  
+  color: #c3fcf4;
+}
+
+p {
+  color:#f7f7f7;
+}
